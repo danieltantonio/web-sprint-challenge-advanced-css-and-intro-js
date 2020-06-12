@@ -306,7 +306,7 @@ function lotsOfArt(arr){
 
   return painters;
 }
-
+ 
 console.log(lotsOfArt(artists));
 
 // 🎨🎨 STRETCH 🎨🎨//
